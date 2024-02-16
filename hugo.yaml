@@ -77,7 +77,7 @@ params:
       url: '@nusserstudios'
     discord:
       enabled: true
-      url: 'https://discord.gg/....'
+      url: 'https://discord.gg/sWvkHuVQA5'
   
   footer:
     url: "https://github.com/galexrt"
