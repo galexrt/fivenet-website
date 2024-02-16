@@ -32,7 +32,7 @@ jobs:
             ${{ runner.os }}-node-
 
       - name: Get NPM dependencies
-        run: npm ci && cd themes/tailbliss && npm ci
+        run: npm ci
 
       - name: Build site
         run: hugo --minify
