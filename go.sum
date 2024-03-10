@@ -20,3 +20,11 @@ github.com/galexrt/tailbliss v0.0.0-20240216143105-a9250627ce9b h1:tIE7SFwRHbRHa
 github.com/galexrt/tailbliss v0.0.0-20240216143105-a9250627ce9b/go.mod h1:gG5GzbbnlIkz/lsjATksHMDiQNaayaA6Hi7Ja1oajQQ=
 github.com/galexrt/tailbliss v0.0.0-20240216145130-5914e90b586a h1:OrA3LfpDBOVdN+P0K39Zacksprz8zweI9aBK6wLcHxA=
 github.com/galexrt/tailbliss v0.0.0-20240216145130-5914e90b586a/go.mod h1:gG5GzbbnlIkz/lsjATksHMDiQNaayaA6Hi7Ja1oajQQ=
+github.com/galexrt/tailbliss v0.0.0-20240310231314-4a827df2c607 h1:vpQ0s3jB3uiXbK5yjVfTeW2lmgXqR3M5ANJ1Kzr4SBE=
+github.com/galexrt/tailbliss v0.0.0-20240310231314-4a827df2c607/go.mod h1:gG5GzbbnlIkz/lsjATksHMDiQNaayaA6Hi7Ja1oajQQ=
+github.com/galexrt/tailbliss v0.0.0-20240310231851-4d3543660b4f h1:gTrCMQI0fzzG0BEOq8TXqBtVTJ5wDBi/70z029m3CzM=
+github.com/galexrt/tailbliss v0.0.0-20240310231851-4d3543660b4f/go.mod h1:gG5GzbbnlIkz/lsjATksHMDiQNaayaA6Hi7Ja1oajQQ=
+github.com/galexrt/tailbliss v0.0.0-20240310232737-7df2202d7a0a h1:Xlu3YX1Z5YJjotdF03DBR8HSszAAmcLKV/JBCvzphSg=
+github.com/galexrt/tailbliss v0.0.0-20240310232737-7df2202d7a0a/go.mod h1:gG5GzbbnlIkz/lsjATksHMDiQNaayaA6Hi7Ja1oajQQ=
+github.com/galexrt/tailbliss v0.0.0-20240310233259-c3c6433e62b9 h1:ZdReKw1QRTMlZOwvqbchYjvbzMMJhfxGVKz57Dg8l+c=
+github.com/galexrt/tailbliss v0.0.0-20240310233259-c3c6433e62b9/go.mod h1:gG5GzbbnlIkz/lsjATksHMDiQNaayaA6Hi7Ja1oajQQ=
